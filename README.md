@@ -130,5 +130,15 @@ Real-time Scenario: When you type a website name into your browser, your device 
 Explanation: Securing a wireless network involves using strong encryption (WPA3), disabling SSID broadcasting, using strong passwords, setting up a firewall, and applying access control lists (ACLs).
 Real-time Scenario: In a café, to protect against unauthorized access, the Wi-Fi network is secured with WPA3 encryption and a strong password, preventing hackers from easily connecting to the network and accessing sensitive customer data.
 
+# 27.What is switching?
+A switch is a device which is used to connect multiple devices inside Local Area Network (LAN). Unlike hubs, a switch examines each packet and process it accordingly rather than simply repeating the signal to all port. Switches operate at Layer Two (Data Link layer) of the OSI model.
 
+# 28.What is DHCP?
+Dynamic Host Configuration Protocol (DHCP) assigns IP address to hosts dynamically. It allows easier administration and works well in small as well as very large network environments. All types of hardware can be used as a DHCP server including a Cisco router.
+
+# 29.How does switch learn Mac address?
+A switch can learn MAC address in two ways; statically or dynamically. In the static option, we must add the MAC addresses in the CAM table manually. In the dynamic option, the switch learns and adds the MAC addresses in the CAM table automatically. The switch stores the CAM table in the RAM.
+
+# 30.How does switch learn Mac address?
+A switch can learn MAC address in two ways; statically or dynamically. In the static option, we must add the MAC addresses in the CAM table manually. In the dynamic option, the switch learns and adds the MAC addresses in the CAM table automatically. The switch stores the CAM table in the RAM.
 
